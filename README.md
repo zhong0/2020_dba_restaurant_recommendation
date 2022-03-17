@@ -8,7 +8,7 @@ Introduction
   >As a NCCU student, there’s a problem to choose the restaurant at the meal time. Therefore, we development the system to recommend the restaurant around the NCCU. It contains random, user common choices, conditional filter modes. The information, such as business hour, address, telephone, comment, will be showed on the introduction pages. Moreover, the system will record the restaurant the user has been. If someone has also been the same places, the system would suggest he or she’s history which the user hasn’t been. In brief, the user may obtain different but possibly highly matched restaurant to explore.
 
 * ### Business Strategy
-  >User can collect the point via scanning QR code after having the meal. Then, they can exchange the coupon of restaurant in our shopping center. The ad fee will influence the order of all restaurant list.
+  >User can collect the point via scanning QR code after having the meal. Then, they can exchange the coupon of restaurant in our shopping center. The ad fee will influence the order of the list for all restaurant.
 
 Techniques
 ----
