@@ -1,6 +1,6 @@
-# 隨食文山
+# Restaurant Recommendation for NCCU
 
-demo video: https://youtu.be/OTVHOEt4oo0
+emo video: https://youtu.be/OTVHOEt4oo0
 
 Introduction
 ----
