@@ -1,6 +1,6 @@
 # Restaurant Recommendation for NCCU
 
-emo video: https://youtu.be/OTVHOEt4oo0
+Demo video: https://youtu.be/OTVHOEt4oo0
 
 Introduction
 ----
