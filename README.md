@@ -10,7 +10,7 @@ Introduction
 * ### Business Strategy
   >User can collect the point via scanning QR code after having the meal. Then, they can exchange the coupon of restaurant in our shopping center. The ad fee will influence the order of all restaurant list.
 
-Technique
+Techniques
 ----
 * ### Database
   >We applied Amazon EC2 virtual machine, which was set up the Xampp and used its Apache server, as the cloud server. Based on relational database concepts, we used SQL with Maria DB framework to build our database, and managed it with phpMyAdmin.
