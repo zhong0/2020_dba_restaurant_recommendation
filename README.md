@@ -39,5 +39,5 @@ Supplement
 * ### Business Strategy
   >The business strategy is only a concept. There’s no real cooperative restaurant in our project. The function we developed is a simulation to the expected situation.
 
-* ### document
+* ### ocument
   >The document file contains the introduction document and presentation ppt for final project of DBA course. All the documents are written in Chinese. If you want to understand our systems work in details, you can watch the demo video via above link.
