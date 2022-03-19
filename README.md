@@ -19,7 +19,7 @@ Techniques
   >Php files connected all data of each function between user side and database. The connection to the database and SQL commands were written in php files. We used POST method to receive the data from Android side to manipulate our database, such as querying, updating, deleting and so on. If it needs to send the value to Android side, we will form the data to Json format and return it with echo commands.
 
 * ### User Interface
-  > The user interface was developed with Android Studio. The Layout was generated with XML, and the interface operation was coded with Java. The techniques included CardView, RecyclerView, Barcode Scanner, etc. Besides, we embedded Google Map API to achieve navigation function. Volley library was applied to pass the data. Gson library helped Java to depack the Json format data from php files.
+  > The user interface was developed with Android Studio. The Layout was generated with XML, and the interface operation was coded with Java. The techniques included CardView, RecyclerView, Barcode Scanner, etc. Besides, we embedded Google Map API to achieve navigation function. Volley library was applied to pass the data. Gson library helped in Java to parse the Json format data from php files.
 
 Environment
 ----
